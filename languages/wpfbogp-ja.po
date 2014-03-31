@@ -1,0 +1,250 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Facebook Open Graph protocol\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp\n"
+"POT-Creation-Date: 2014-03-31 00:20+0900\n"
+"PO-Revision-Date: 2014-03-31 01:21+0900\n"
+"Last-Translator: Toshi Oshio <support@officeto.net>\n"
+"Language-Team: OfficeTO Inc. <support@officeto.net>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-facebook-ogp.php:315
+msgid "Facebook Open Graph protocol plugin"
+msgstr "Facebook Open Graph protocol プラグイン"
+
+#: ../wp-facebook-ogp.php:315
+msgid "Facebook OGP"
+msgstr "Facebook OGP"
+
+#: ../wp-facebook-ogp.php:330
+#, php-format
+msgctxt "Headline + Version"
+msgid "Facebook Open Graph protocol plugin %s"
+msgstr "Facebook Open Graph protocol プラグイン %s"
+
+#: ../wp-facebook-ogp.php:335
+msgid "About the Plugin:"
+msgstr "プラグインについて："
+
+#: ../wp-facebook-ogp.php:337
+msgid "Having problems?"
+msgstr "なにか問題がありましたか？"
+
+#: ../wp-facebook-ogp.php:338
+msgid ""
+"If you are experiencing issues with the correct information appearing on "
+"Facebook, please follow these steps:"
+msgstr ""
+"Facebook上に表示される情報が正しく表示されないなど、何かしら問題がありました"
+"ら、以下のステップをご確認ください。"
+
+#: ../wp-facebook-ogp.php:339
+msgid ""
+"1. View-Source to see if there is another plugin adding in additional og: "
+"tags."
+msgstr ""
+"1. ブラウザの「ソースの表示」で他のプラグインなどが追加した「og:」タグがない"
+"かを確認します。"
+
+#: ../wp-facebook-ogp.php:340
+#, php-format
+msgid ""
+"2. Run the URL through the <a href=\"%s\">Facebook Debugger</a> to check for "
+"errors."
+msgstr ""
+"2. 該当ページURLを<a href=\"%s\">Facebook Debugger</a>で入力して、エラーがな"
+"いかをチェックします。"
+
+#: ../wp-facebook-ogp.php:341
+#, php-format
+msgid ""
+"3. If none of those fixed your problem then feel free to start/join a thread "
+"on the <a href=\"%s\">Support Forums</a>."
+msgstr ""
+"3. もしこれでも問題解決できないときは、お気軽に<a href=\"%s\">Support "
+"Forums</a>にご投稿ください。"
+
+#: ../wp-facebook-ogp.php:344
+msgid "Enjoy the plugin?"
+msgstr "プラグインをお楽しみいただけていますか？"
+
+#: ../wp-facebook-ogp.php:345
+#, php-format
+msgid "%s and consider donating."
+msgstr "%s と寄付をご検討ください。"
+
+#: ../wp-facebook-ogp.php:345
+msgid "Tweet about it"
+msgstr "プラグインについてツイート"
+
+#: ../wp-facebook-ogp.php:347
+msgid "Support Us"
+msgstr "サポートのお願い"
+
+#: ../wp-facebook-ogp.php:348
+msgid ""
+"A lot of hard work goes into building plugins - support your open source "
+"developers. Include your twitter username and I'll send you a shout out for "
+"your generosity. Thank you!"
+msgstr ""
+"プラグインの開発にはたくさんの作業が必要です。どうか、オープンソースの開発者"
+"へのご支援をお願いいたします。ぜひあなたのTwitterアカウント名も一緒にお送りく"
+"ださい。お礼ツイートを投稿いたします。"
+
+#: ../wp-facebook-ogp.php:361
+msgid "Relevant Information:"
+msgstr "関連情報："
+
+#: ../wp-facebook-ogp.php:363
+msgid "The Open Graph Protocol"
+msgstr "The Open Graph Protocol"
+
+#: ../wp-facebook-ogp.php:364
+msgid "Facebook Open Graph Docs"
+msgstr "Facebook Open Graph Docs"
+
+#: ../wp-facebook-ogp.php:365
+msgid "Insights: Domain vs App vs Page"
+msgstr "Insights: Domain vs App vs Page"
+
+#: ../wp-facebook-ogp.php:366
+msgid "How To Add a Like Button"
+msgstr "How To Add a Like Button"
+
+#: ../wp-facebook-ogp.php:390
+msgid "Facebook User Account ID:"
+msgstr "FacebookユーザーアカウントID："
+
+#: ../wp-facebook-ogp.php:392
+msgid ""
+"Option 1: For personal sites use your Facebook User ID here. <em>(You can "
+"enter multiple by separating each with a comma)</em>. Note: this is a "
+"number, not your name or url."
+msgstr ""
+"オプション１：個人のサイトの場合は、あなたのFacebookユーザーIDをここに入力し"
+"てください。<em>（複数アカウントの場合はカンマ区切りでご入力ください。）</"
+"em> この欄は数字のみで、あなたの名前やURLではないことにご留意ください。"
+
+#: ../wp-facebook-ogp.php:393
+msgid ""
+"<strong>Find your ID</strong> by going to the URL like this: http://graph."
+"facebook.com/{yourusername}"
+msgstr ""
+"<strong>ユーザーIDの確認方法</strong>次のようなURLにアクセスします: http://"
+"graph.facebook.com/{yourusername}"
+
+#: ../wp-facebook-ogp.php:397
+msgid "Facebook Application ID:"
+msgstr "FacebookアプリケーションID:"
+
+#: ../wp-facebook-ogp.php:399
+#, php-format
+msgid ""
+"Option 2: For business/brand sites use this field for your APPlication ID "
+"(not page id) with or without the User ID field above. Create an app or edit "
+"a previous one to get the \"App ID\": %s."
+msgstr ""
+"オプション２：企業／ブランドサイトの場合は、アプリケーションID（Facebookペー"
+"ジIDではありません）をここに入力してください。上記のFacebookユーザーIDは入力"
+"しても未入力でもどちらでも構いません。Facebookアプリの新規作成または既存のア"
+"プリで「アプリケーションID」を取得する： %s"
+
+#: ../wp-facebook-ogp.php:399
+msgid "Facebook Apps"
+msgstr "Facebookアプリ"
+
+#: ../wp-facebook-ogp.php:402
+msgid "Default Image URL to use:"
+msgstr "デフォルト画像URL"
+
+#: ../wp-facebook-ogp.php:404
+msgid ""
+"Full URL including http:// to the default image to use if your home/posts/"
+"pages don't have a featured image or an image in the content. <strong>The "
+"image is recommended to be at least  200px by 200px</strong>."
+msgstr ""
+"フロントページや投稿／固定ページなどでアイキャッチ画像が設定されてなかった"
+"り、コンテンツに画像がないときに使用するデフォルト画像へのhttp://を含む絶対パ"
+"スURLです。<strong>画像は少なくとも200px四方のものが推奨されています。</"
+"strong>."
+
+#: ../wp-facebook-ogp.php:405
+#, php-format
+msgid ""
+"You can use the WordPress %s if you wish, just copy the location of the "
+"image and put it here."
+msgstr ""
+"WordPress %s をご利用になれますが、その画像のURLをコピーしてここに入力するだ"
+"けでも大丈夫です。"
+
+#: ../wp-facebook-ogp.php:405
+msgid "media uploader"
+msgstr "メディアアップローダー"
+
+#: ../wp-facebook-ogp.php:408
+msgid "Force Fallback Image as Default"
+msgstr "予備画像をデフォルトとして強制利用する"
+
+#: ../wp-facebook-ogp.php:410
+msgid ""
+"Check this if you want to use the Default Image above for everything instead "
+"of looking for featured/content images."
+msgstr ""
+"アイキャッチ画像やコンテンツ内の画像の代わりに、上記に設定したデフォルト画像"
+"を常に使用したい場合は、ここにチェックを入れてください。"
+
+#: ../wp-facebook-ogp.php:421
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: ../wp-facebook-ogp.php:445
+msgid ""
+"You have entered invalid admin ID(s). Please check you have entered the "
+"correct IDs."
+msgstr ""
+"無効な管理者IDが入力されました。正しいIDを入力しているかご確認ください。"
+
+#: ../wp-facebook-ogp.php:451
+msgid ""
+"You have entered an invalid application ID. Please check you have entered "
+"the correct ID."
+msgstr ""
+"無効なアプリケーションIDが入力されました。正しいIDを入力しているかご確認くだ"
+"さい。"
+
+#: ../wp-facebook-ogp.php:484
+msgid "WP FB OGP is almost ready."
+msgstr "WP FB OGPはほぼ準備できました。"
+
+#: ../wp-facebook-ogp.php:484
+#, php-format
+msgid "You must %s for it to work."
+msgstr "正しく稼働させるには%sが必要です。"
+
+#: ../wp-facebook-ogp.php:484
+msgid "enter your Facebook User ID or App ID"
+msgstr "あなたのFacebookユーザーIDまたはアプリケーションIDの入力"
+
+#: ../wp-facebook-ogp.php:505
+msgid "Settings"
+msgstr "設定"
+
+#: ../wp-facebook-ogp.php:524
+msgid "OGP Debug"
+msgstr "OGPデバッグ"
+
+#~ msgid "plugin support form"
+#~ msgstr "プラグインサポートフォーラム"
